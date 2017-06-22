@@ -4,5 +4,5 @@ This code written in Java programming language to convert  text file with (cp125
 # How to use?
 1. Place the text files with (cp1256) encoding in a folder and add it in your desktop.
 2. Run the program.
-3. Enter the folder name.
-4. Done, thta's it :).
+3. Enter the folder name (the folder of step #1).
+4. You will find a new folder in your desktop named "ConvertedFiles" contains the new files with (utf-8) encoding, That's it :).
